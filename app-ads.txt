@@ -287,3 +287,5 @@ mango.mp, 323120, RESELLER
 ucfunnel.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
 undertone.com, 4108, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
+taurusx.com, 80635, RESELLER
+advertising.com, 82632, RESELLER
