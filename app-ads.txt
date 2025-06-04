@@ -289,3 +289,4 @@ undertone.com, 4108, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
 taurusx.com, 80635, RESELLER
 advertising.com, 82632, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
